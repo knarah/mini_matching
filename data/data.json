@@ -4,7 +4,7 @@
             "type": "tshirt",
             "gender": "female",
             "color": "pink",
-            "image": "../../img/pink_t.png"
+            "image": "./../img/pink_t.png"
         }, 
         {
             "type": "pants",
